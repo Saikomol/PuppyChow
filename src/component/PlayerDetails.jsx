@@ -3,7 +3,7 @@ export function PlayerDetails({ player }) {
     <dialog className="dialog" open={player.id}>
       playerID :{player.id}
       <br />
-      player name :{player.name} 
+      player name :{player.name}
       <br />
       player breed :{player.breed}
       <br />
